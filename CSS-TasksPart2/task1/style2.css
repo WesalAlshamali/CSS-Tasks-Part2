@@ -1,0 +1,45 @@
+body{
+    background-color: rgb(89, 178, 219);
+}
+div{
+    background-color: rgb(255, 255, 255);
+    width: 20%;
+    height: 90%;
+    padding: 2%;
+   margin: 0 auto;
+   border-radius: 5px;;
+}
+form{
+    align-items: center;
+}
+input,label{
+    display: block;
+}
+label{
+margin: 1%;
+}
+input{
+    width:100%;
+    border: none;
+    border-radius: 5px;
+    margin: 1%;
+    padding: 2%;
+    border: 1px solid lightblue;
+}
+h1{
+    font-size: 28px;
+}
+h1,p{
+   
+    text-align: center;
+}
+button{
+    background-color: lightblue;
+    border: none;
+    border-radius: 3px;
+    padding: 3%;
+    width: 30%;
+    margin-top: 3%;
+    margin-left: 30%;
+
+}

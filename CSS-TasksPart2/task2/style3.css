@@ -1,0 +1,24 @@
+/* p{
+    
+    position: absolute;
+}
+img{
+    position: relative;
+   z-index: 1;
+   left: 98%;
+  
+} */
+body{
+    height:100%;
+  }
+  
+  
+  div.fixed {
+      position: fixed;
+      size:30%;
+      right: 0;
+      height:40px;
+     margin-top: 5%;
+    
+     
+    }

@@ -1,0 +1,34 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 900px;
+    gap:30px
+ 
+}
+.blackk{
+background-color: black;
+width: 100%;
+height: 200px;
+}
+.two-div{
+display: flex;
+flex-direction: row;
+gap:20px
+}
+.yeloow{
+    background-color: yellow;
+    width: 80%;
+    height: 500px;
+
+}
+.greenn{
+    background-color: green;
+    width: 50%;
+    height: 500px;
+}
+.bluee{
+background-color: blue;
+width: 100%;
+    height: 200px;
+}

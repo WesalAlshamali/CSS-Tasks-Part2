@@ -1,0 +1,44 @@
+.container{
+    display: flex;
+    flex-direction: column;
+}
+.div1 h1{
+    text-align: center;
+    margin: 12% auto 12% auto;
+}
+.div1{
+background-color:rgb(129, 47, 0);
+width: 100%;
+height: 300px;
+}
+.div2{
+    background-color: rgb(206, 120, 49);
+    width: 100%;
+    height: 300px;
+}
+ul {
+    list-style-type: none;
+    
+    display: flex;
+    padding: 0;
+    overflow: hidden;
+    justify-content: center;
+    
+    
+  }
+  li {
+    float: left;
+  }
+  li a {
+    font-size: 100%;
+    display: inline;
+    font-weight: bold;
+    color: rgb(45, 114, 39);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  .browns{
+ color:rgb(129, 47, 0);
+
+  }

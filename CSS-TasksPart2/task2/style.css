@@ -1,0 +1,33 @@
+.container{
+   display: flex;
+
+   flex-direction: column;
+   gap:10px;
+  
+}
+
+.one{
+    border: 1px solid black; 
+    width: 70%;
+
+}
+p{
+    padding: 1%;
+}
+.two{
+    border: 1px solid black;
+    width: 70%;
+}
+.three{
+    border: 1px dotted black;
+    width: 70%;
+}
+.threes{
+    border: 1px dotted black;
+
+    margin: 1%;
+}
+mark{
+    background-color: blue;
+}
+
